@@ -1,2 +1,2 @@
-# wzdiy.com
-test
+# test
+wzdiy.com

@@ -1,5 +1,15 @@
 ## Welcome to GitHub Pages
 
+[hi](https://github.com/wzdiy/wzdiy.github.io/blob/main/imgs/logo_256.png)
+hi01
+[hi](https://wzdiy.com/imgs/logo_256.png)
+hi02
+[hi](imgs/logo_256.png)
+hi03
+[hi](/imgs/logo_256.png)
+hi04
+[hi](./imgs/logo_256.png)
+
 You can use the [editor on GitHub](https://github.com/wzdiy/wzdiy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

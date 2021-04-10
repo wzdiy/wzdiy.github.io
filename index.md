@@ -1,14 +1,14 @@
 ## Welcome to GitHub Pages
 
-[hi](https://github.com/wzdiy/wzdiy.github.io/blob/main/imgs/logo_256.png)
+![Image](https://github.com/wzdiy/wzdiy.github.io/blob/main/imgs/logo_256.png)
 hi01
-[hi](https://wzdiy.com/imgs/logo_256.png)
+![hi](https://wzdiy.com/imgs/logo_256.png)
 hi02
-[hi](imgs/logo_256.png)
+![hi](imgs/logo_256.png)
 hi03
-[hi](/imgs/logo_256.png)
+![hi](/imgs/logo_256.png)
 hi04
-[hi](./imgs/logo_256.png)
+![hi](./imgs/logo_256.png)
 
 You can use the [editor on GitHub](https://github.com/wzdiy/wzdiy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

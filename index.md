@@ -3,25 +3,10 @@
 
 ![image](https://wzdiy.com/imgs/logo_256.png)
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-hi
 
-First 好r | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-hi
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-hi
 
-|First Header | Second Header|
+|First Heade好r | Second Header|
 |------------ | -------------|
 |Content from cell 1 | Content from cell 2|
 |Content in the first column | Content in the second column|
